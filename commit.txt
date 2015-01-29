@@ -1,0 +1,35 @@
+commit 7bd713d40d47a6974ff63606812acf62c016bd33
+Author: Marisabel Hernandez <isahlopez@gmail.com>
+Date:   Mon Jan 26 12:16:44 2015 -0430
+
+    agregue portafolio
+
+commit e878fc2f67a9de6f5e54c6b43c67c65601141df2
+Author: Marisabel Hernandez <isahlopez@gmail.com>
+Date:   Mon Jan 26 12:15:36 2015 -0430
+
+    Agregue descripcion
+
+commit d298a9e04e1af14c3770cd50139533dfb03101fd
+Author: Marisabel Hernandez <isahlopez@gmail.com>
+Date:   Mon Jan 26 12:13:44 2015 -0430
+
+    Redes sociales
+
+commit cefbe8c4e5a56ee41ba96d2b5268ce961da75a2b
+Author: Marisabel Hernandez <isahlopez@gmail.com>
+Date:   Mon Jan 26 12:09:49 2015 -0430
+
+    Perfil escrito
+
+commit 2d287ed516646398a7b95a71b89eac455691a14c
+Author: Marisabel Hernandez <isahlopez@gmail.com>
+Date:   Mon Jan 26 12:07:05 2015 -0430
+
+    Foto de perfil y nombre
+
+commit 082f3d9dc8af5c198ea18e373f2d95a47ad13027
+Author: Marisabel Hernandez <isahlopez@gmail.com>
+Date:   Mon Jan 26 12:01:26 2015 -0430
+
+    Estos son los archivos base del portafolio
